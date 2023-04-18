@@ -1,5 +1,5 @@
-from collections.abc import Iterable, Hashable, Callable
 from typing import TypeAlias, TypeVar
+from collections.abc import Iterable, Hashable, Callable
 from itertools import chain
 from functools import partial, cache
 from operator import itemgetter
